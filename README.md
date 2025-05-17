@@ -1,6 +1,7 @@
 #  Mean and variance of a discrete  distribution
-#NAME:RAMYA.P
-#REG NO:212223240137
+# NAME:RAMYA.P
+
+# REG NO:212223240137
 
 # Aim : 
 To find mean and variance of arrival of objects from the feeder using probability distribution
